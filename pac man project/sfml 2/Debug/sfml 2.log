@@ -1,0 +1,326 @@
+﻿  sfml2.cpp
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(96,76): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(96,108): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(97,78): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(98,60): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(98,121): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(99,60): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(99,121): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(100,30): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(100,62): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(101,102): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(102,102): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(103,102): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(112,81): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(115,88): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(117,88): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(120,82): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(123,90): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(126,81): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(129,83): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(132,84): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(135,86): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(138,92): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(163,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(177,72): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(212,29): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(212,58): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(215,29): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(215,63): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(216,28): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(216,62): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(217,29): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(217,63): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(218,29): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(218,63): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(219,29): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(219,63): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(300,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(300,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(301,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(301,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(302,97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(302,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(303,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(303,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(40,54): warning C4101: 'di': unreferenced local variable
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(40,21): warning C4101: 'n': unreferenced local variable
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(394,76): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(394,108): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(395,78): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(396,60): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(396,121): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(397,60): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(397,121): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(398,30): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(398,62): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(399,102): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(400,102): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(401,102): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(410,81): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(413,88): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(415,88): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(418,82): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(421,90): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(424,81): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(427,83): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(430,84): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(433,86): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(436,92): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(461,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(475,72): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(510,30): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(510,59): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(513,30): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(513,64): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(514,29): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(514,63): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(515,30): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(515,64): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(516,30): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(516,64): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(517,30): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(517,64): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(598,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(598,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(599,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(599,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(600,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(600,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(601,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(601,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(338,54): warning C4101: 'di': unreferenced local variable
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(338,21): warning C4101: 'n': unreferenced local variable
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(827,22): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(829,23): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(836,76): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(836,108): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(837,78): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(838,60): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(838,121): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(839,60): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(839,121): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(840,30): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(840,62): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(841,102): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(842,102): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(843,102): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(852,81): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(855,88): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(857,88): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(860,82): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(863,90): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(866,81): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(869,83): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(872,84): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(875,86): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(878,92): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(902,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(916,72): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(951,29): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(951,58): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(954,29): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(954,63): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(955,28): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(955,62): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(956,29): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(956,63): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(957,29): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(957,63): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(958,29): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(958,63): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(1039,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(1039,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(1040,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(1040,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(1041,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(1041,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(1042,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(1042,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(771,54): warning C4101: 'di': unreferenced local variable
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(771,21): warning C4101: 'n': unreferenced local variable
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(1703,28): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(1704,28): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(1736,28): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(1737,28): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(1776,28): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(1777,28): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(1809,28): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\project\my_projects\Pac_Man\sfml 2\sfml2.cpp(1810,28): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  sfml 2.vcxproj -> E:\project\my_projects\Pac_Man\Debug\sfml 2.exe
